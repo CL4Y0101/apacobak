@@ -1,0 +1,9 @@
+<style>
+   #audio-container {
+       position: fixed;
+       bottom: 10px; /* Jarak dari bawah halaman */
+       left: 50%;
+       transform: translateX(-50%); /* Agar elemen audio terpusat */
+       z-index: 1000;
+   }
+</style>
